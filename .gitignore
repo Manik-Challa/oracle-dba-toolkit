@@ -1,0 +1,29 @@
+# Oracle files
+*.trc
+*.trm
+*.log
+*.aud
+*.ora
+
+# Wallet / security files
+*.p12
+*.pfx
+*.jks
+*.sso
+*.key
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# DBA health check reports
+reports/
