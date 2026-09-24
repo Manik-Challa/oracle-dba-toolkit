@@ -1,4 +1,3 @@
-```sql id="k7x2mp"
 -- ============================================================
 -- Oracle DBA Toolkit
 -- File   : rac_undo_usage.sql

@@ -1,4 +1,3 @@
-```sql
 -- ============================================================
 -- Oracle DBA Toolkit
 -- File   : rac_scan_status.sql
