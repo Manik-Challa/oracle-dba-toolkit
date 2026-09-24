@@ -1,10 +1,7 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : http://www.oracle-base.com/dba/monitoring/ts_full.sql
--- Author       : DR Timothy S Hall
 -- Description  : Displays a list of tablespaces that are nearly full.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @ts_full
--- Last Modified: 15/07/2000
 -- -----------------------------------------------------------------------------------
 SET SERVEROUTPUT ON
 SET PAGESIZE 1000
